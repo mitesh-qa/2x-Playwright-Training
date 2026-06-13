@@ -10,4 +10,8 @@ function isAnagrams(name1,name2) {
     }
 }
 
-isAnagrams("mitesh","dharika");
+isAnagrams("mitesh","parmar");
+
+
+
+
