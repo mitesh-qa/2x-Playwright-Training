@@ -31,3 +31,9 @@ apiCall.then(function (response) {
 })
 
 // .then() runs ONLY when the promise resolves successfully.
+
+
+
+console.log("5" + 2);
+
+console.log("5" - 2);
